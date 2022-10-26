@@ -2,4 +2,10 @@
     margin: 0; 
     padding: 0; 
     box-sizing: border-boxxs;
+} 
+.button { 
+    width: 20px; 
+    height: 20px; 
+    background-color: black; 
+    font-size: 10px;
 }
